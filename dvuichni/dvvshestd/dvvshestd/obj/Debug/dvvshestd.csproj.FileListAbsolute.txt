@@ -1,0 +1,7 @@
+D:\Users\U301\Documents\10a_UPPROG RPP 1\dvuichni\dvvshestd\dvvshestd\bin\Debug\dvvshestd.exe.config
+D:\Users\U301\Documents\10a_UPPROG RPP 1\dvuichni\dvvshestd\dvvshestd\bin\Debug\dvvshestd.exe
+D:\Users\U301\Documents\10a_UPPROG RPP 1\dvuichni\dvvshestd\dvvshestd\bin\Debug\dvvshestd.pdb
+D:\Users\U301\Documents\10a_UPPROG RPP 1\dvuichni\dvvshestd\dvvshestd\obj\Debug\dvvshestd.csproj.AssemblyReference.cache
+D:\Users\U301\Documents\10a_UPPROG RPP 1\dvuichni\dvvshestd\dvvshestd\obj\Debug\dvvshestd.csproj.CoreCompileInputs.cache
+D:\Users\U301\Documents\10a_UPPROG RPP 1\dvuichni\dvvshestd\dvvshestd\obj\Debug\dvvshestd.exe
+D:\Users\U301\Documents\10a_UPPROG RPP 1\dvuichni\dvvshestd\dvvshestd\obj\Debug\dvvshestd.pdb

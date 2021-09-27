@@ -1,0 +1,7 @@
+D:\Users\U301\Documents\10a_UPPROG RPP 1\dvuichni\dvuichni\bin\Debug\dvuichni.exe.config
+D:\Users\U301\Documents\10a_UPPROG RPP 1\dvuichni\dvuichni\bin\Debug\dvuichni.exe
+D:\Users\U301\Documents\10a_UPPROG RPP 1\dvuichni\dvuichni\bin\Debug\dvuichni.pdb
+D:\Users\U301\Documents\10a_UPPROG RPP 1\dvuichni\dvuichni\obj\Debug\dvuichni.csproj.AssemblyReference.cache
+D:\Users\U301\Documents\10a_UPPROG RPP 1\dvuichni\dvuichni\obj\Debug\dvuichni.csproj.CoreCompileInputs.cache
+D:\Users\U301\Documents\10a_UPPROG RPP 1\dvuichni\dvuichni\obj\Debug\dvuichni.exe
+D:\Users\U301\Documents\10a_UPPROG RPP 1\dvuichni\dvuichni\obj\Debug\dvuichni.pdb
